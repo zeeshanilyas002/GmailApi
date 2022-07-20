@@ -1,0 +1,48 @@
+C:\Users\RAJDIP SARKAR\source\repos\GmailAPI\GmailAPI\bin\Debug\GmailAPI.exe.config
+C:\Users\RAJDIP SARKAR\source\repos\GmailAPI\GmailAPI\bin\Debug\GmailAPI.exe
+C:\Users\RAJDIP SARKAR\source\repos\GmailAPI\GmailAPI\bin\Debug\GmailAPI.pdb
+C:\Users\RAJDIP SARKAR\source\repos\GmailAPI\GmailAPI\bin\Debug\Google.Apis.Auth.dll
+C:\Users\RAJDIP SARKAR\source\repos\GmailAPI\GmailAPI\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\RAJDIP SARKAR\source\repos\GmailAPI\GmailAPI\bin\Debug\Google.Apis.Core.dll
+C:\Users\RAJDIP SARKAR\source\repos\GmailAPI\GmailAPI\bin\Debug\Google.Apis.dll
+C:\Users\RAJDIP SARKAR\source\repos\GmailAPI\GmailAPI\bin\Debug\Google.Apis.Gmail.v1.dll
+C:\Users\RAJDIP SARKAR\source\repos\GmailAPI\GmailAPI\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\RAJDIP SARKAR\source\repos\GmailAPI\GmailAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\RAJDIP SARKAR\source\repos\GmailAPI\GmailAPI\bin\Debug\Google.Apis.pdb
+C:\Users\RAJDIP SARKAR\source\repos\GmailAPI\GmailAPI\bin\Debug\Google.Apis.xml
+C:\Users\RAJDIP SARKAR\source\repos\GmailAPI\GmailAPI\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\RAJDIP SARKAR\source\repos\GmailAPI\GmailAPI\bin\Debug\Google.Apis.Auth.xml
+C:\Users\RAJDIP SARKAR\source\repos\GmailAPI\GmailAPI\bin\Debug\Google.Apis.Core.pdb
+C:\Users\RAJDIP SARKAR\source\repos\GmailAPI\GmailAPI\bin\Debug\Google.Apis.Core.xml
+C:\Users\RAJDIP SARKAR\source\repos\GmailAPI\GmailAPI\bin\Debug\Google.Apis.Gmail.v1.pdb
+C:\Users\RAJDIP SARKAR\source\repos\GmailAPI\GmailAPI\bin\Debug\Google.Apis.Gmail.v1.xml
+C:\Users\RAJDIP SARKAR\source\repos\GmailAPI\GmailAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\RAJDIP SARKAR\source\repos\GmailAPI\GmailAPI\obj\Debug\GmailAPI.csproj.CoreCompileInputs.cache
+C:\Users\RAJDIP SARKAR\source\repos\GmailAPI\GmailAPI\obj\Debug\GmailAPI.csproj.CopyComplete
+C:\Users\RAJDIP SARKAR\source\repos\GmailAPI\GmailAPI\obj\Debug\GmailAPI.exe
+C:\Users\RAJDIP SARKAR\source\repos\GmailAPI\GmailAPI\obj\Debug\GmailAPI.pdb
+C:\Users\RAJDIP SARKAR\source\repos\GmailAPI\GmailAPI\obj\Debug\GmailAPI.csprojAssemblyReference.cache
+D:\zeeshan\CV 2022\Gmail Credentials\GmailAPI\GmailAPI\bin\Debug\GmailAPI.exe.config
+D:\zeeshan\CV 2022\Gmail Credentials\GmailAPI\GmailAPI\bin\Debug\GmailAPI.exe
+D:\zeeshan\CV 2022\Gmail Credentials\GmailAPI\GmailAPI\bin\Debug\GmailAPI.pdb
+D:\zeeshan\CV 2022\Gmail Credentials\GmailAPI\GmailAPI\bin\Debug\Google.Apis.Auth.dll
+D:\zeeshan\CV 2022\Gmail Credentials\GmailAPI\GmailAPI\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\zeeshan\CV 2022\Gmail Credentials\GmailAPI\GmailAPI\bin\Debug\Google.Apis.Core.dll
+D:\zeeshan\CV 2022\Gmail Credentials\GmailAPI\GmailAPI\bin\Debug\Google.Apis.dll
+D:\zeeshan\CV 2022\Gmail Credentials\GmailAPI\GmailAPI\bin\Debug\Google.Apis.Gmail.v1.dll
+D:\zeeshan\CV 2022\Gmail Credentials\GmailAPI\GmailAPI\bin\Debug\Google.Apis.PlatformServices.dll
+D:\zeeshan\CV 2022\Gmail Credentials\GmailAPI\GmailAPI\bin\Debug\Newtonsoft.Json.dll
+D:\zeeshan\CV 2022\Gmail Credentials\GmailAPI\GmailAPI\bin\Debug\Google.Apis.pdb
+D:\zeeshan\CV 2022\Gmail Credentials\GmailAPI\GmailAPI\bin\Debug\Google.Apis.xml
+D:\zeeshan\CV 2022\Gmail Credentials\GmailAPI\GmailAPI\bin\Debug\Google.Apis.Auth.pdb
+D:\zeeshan\CV 2022\Gmail Credentials\GmailAPI\GmailAPI\bin\Debug\Google.Apis.Auth.xml
+D:\zeeshan\CV 2022\Gmail Credentials\GmailAPI\GmailAPI\bin\Debug\Google.Apis.Core.pdb
+D:\zeeshan\CV 2022\Gmail Credentials\GmailAPI\GmailAPI\bin\Debug\Google.Apis.Core.xml
+D:\zeeshan\CV 2022\Gmail Credentials\GmailAPI\GmailAPI\bin\Debug\Google.Apis.Gmail.v1.pdb
+D:\zeeshan\CV 2022\Gmail Credentials\GmailAPI\GmailAPI\bin\Debug\Google.Apis.Gmail.v1.xml
+D:\zeeshan\CV 2022\Gmail Credentials\GmailAPI\GmailAPI\bin\Debug\Newtonsoft.Json.xml
+D:\zeeshan\CV 2022\Gmail Credentials\GmailAPI\GmailAPI\obj\Debug\GmailAPI.csproj.AssemblyReference.cache
+D:\zeeshan\CV 2022\Gmail Credentials\GmailAPI\GmailAPI\obj\Debug\GmailAPI.csproj.CoreCompileInputs.cache
+D:\zeeshan\CV 2022\Gmail Credentials\GmailAPI\GmailAPI\obj\Debug\GmailAPI.csproj.CopyComplete
+D:\zeeshan\CV 2022\Gmail Credentials\GmailAPI\GmailAPI\obj\Debug\GmailAPI.exe
+D:\zeeshan\CV 2022\Gmail Credentials\GmailAPI\GmailAPI\obj\Debug\GmailAPI.pdb
